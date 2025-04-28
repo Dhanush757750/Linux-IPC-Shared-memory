@@ -123,19 +123,15 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 ## OUTPUT
 ## $ ./shm.o
 
-
-![322713654-3d273360-df28-475f-afd0-35594db739ba](https://github.com/rkpriyadharshini0420/Linux-IPC-Shared-memory/assets/151533322/216d491f-4a5e-47e0-8307-2f47fc0cb7b2)
+![alt text](<Screenshot 2025-04-28 145538.png>)
 
 ## $ ./shmry2.o
 
-![322713682-2d832a0d-dfbd-4b0c-8a39-c66df69d025d](https://github.com/rkpriyadharshini0420/Linux-IPC-Shared-memory/assets/151533322/54db6248-b73f-4db3-8a81-f445d26034ac)
-
+![alt text](<Screenshot 2025-04-28 145602.png>)
 
 ## $ipcs
 
-
-
-![322713753-37c3bcc1-cc11-49b4-9555-668cfb8ac3be](https://github.com/rkpriyadharshini0420/Linux-IPC-Shared-memory/assets/151533322/25d2801f-947e-4441-bae8-a4a3f3f2d4b5)
+![alt text](<Screenshot 2025-04-28 145621.png>)
 
 # RESULT:
 
